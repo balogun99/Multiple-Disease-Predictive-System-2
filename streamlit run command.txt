@@ -1,0 +1,1 @@
+streamlit run "/Users/balogunishaq/Desktop/Complete Machine Learning Course - Siddhardhan/Machine Learning/MLtuTs - Part 5 Model Deployment/Multiple Disease Prediction/Multiple_Disease_Prediction.py"
